@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DesignSurface">
-    <option name="filePathToZoomLevelMap">
-      <map>
-        <entry key="..\:/AndroidProjF2021/ScrumFitApp/ScrumFitApp/app/src/main/res/layout/activity_list_routine_exercise.xml" value="0.4" />
-        <entry key="..\:/AndroidProjF2021/ScrumFitApp/ScrumFitApp/app/src/main/res/layout/activity_log_register.xml" value="0.264" />
-        <entry key="..\:/AndroidProjF2021/ScrumFitApp/ScrumFitApp/app/src/main/res/layout/activity_log_sign_in_acitity.xml" value="0.264" />
-        <entry key="..\:/AndroidProjF2021/ScrumFitApp/ScrumFitApp/app/src/main/res/layout/activity_log_start.xml" value="0.12708333333333333" />
-        <entry key="..\:/AndroidProjF2021/ScrumFitApp/ScrumFitApp/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
-      </map>
-    </option>
-  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

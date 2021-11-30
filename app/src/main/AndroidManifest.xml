@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ListRoutine_Exercise_Acitivty"
+            android:name=".ListRoutine_Daily_Activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ListRoutine_Workout_Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,8 +22,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Log_SignIn_Acitity"
+            android:name=".ListRoutine_Exercise_Activity"
             android:exported="false"/>
+        <activity
+            android:name=".Log_SignIn_Acitity"
+            android:exported="false" />
         <activity
             android:name=".Log_Register_Activity"
             android:exported="false" />
